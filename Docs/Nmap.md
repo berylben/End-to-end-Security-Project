@@ -1361,5 +1361,5 @@ Visiting the location "`/home/kali/.nxc/modules/nxc_spider_plus/192.168.1.165.js
     <---SNIP--->
 ```
 
-the record also shoes us twiki vulnerability and the path to a web root
+the record also shows us twiki vulnerability and the path to a web root
 
